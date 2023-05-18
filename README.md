@@ -9,4 +9,13 @@ ______________________________________________________
 
 🌱 Studying: React, React Native
 
- ⚡ Curiosity: Dedicated, calm and Focused on meeting very well planned goals.
+⚡ Curiosity: Dedicated, calm and Focused on meeting very well planned goals.
+
+______________________________________________________
+
+#Programming language used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincon-cardoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ 
