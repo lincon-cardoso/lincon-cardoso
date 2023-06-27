@@ -5,7 +5,7 @@ ______________________________________________________
 
 ______________________________________________________
 
-🔭 I currently work as a Front-End jr.
+🔭 I currently work as a Front-End.
 
 🌱 Studying: React, React Native
 
