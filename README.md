@@ -7,7 +7,7 @@ ______________________________________________________
 
 🔭 I currently work as a Front-End.
 
-🌱 Studying: React, React Native
+🌱 Studying: React.js
 
 ⚡ Curiosity: Dedicated, calm and Focused on meeting very well planned goals.
 
