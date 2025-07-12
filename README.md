@@ -14,44 +14,48 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-Passionate Front-End Developer with a focus on crafting clean, performant interfaces. I enjoy translating design concepts into interactive experiences and learning new technologies every day.
+Front-End Developer and freelancer passionate about coding and exploring new technologies. Based in Joinville, Brazil, I’m committed to continuous learning and open to new opportunities.
 
-- 🧠 Currently diving into **React** and **TypeScript**, expanding into full-stack development  
-- ⚒️ Strong emphasis on code quality, UI/UX best practices, and performance optimization  
-- 🚀 Continuously building personal projects to tackle real-world challenges  
-- 🧘 Calm, curious, and driven by results  
-
----
+- ✅ Joined GitHub in January 2020; now with 37 public repositories showcasing my skills and interests.  
+- 🔗 Active on LinkedIn for networking and professional collaborations.  
+- 🚀 Experienced with Next.js, React, TypeScript, Sass/SCSS, Prisma, and more.
 
 ## 🚀 Tech Stack
 
-**Languages & Frameworks:**
-
+**Languages & Frameworks**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-**Tools & Platforms:**
-
+**Tools & Platforms**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
+**Also Experienced With**  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
+![NextAuth.js](https://img.shields.io/badge/NextAuth-black?style=flat&logo=nextauth&logoColor=white)  
+![JSON Web Tokens](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)  
+![argON2](https://img.shields.io/badge/Argon2-6548FF?style=flat)  
+![bcrypt.js](https://img.shields.io/badge/bcrypt.js-734F96?style=flat)  
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)  
+![Zod](https://img.shields.io/badge/Zod-EA33D2?style=flat)  
+![Joi](https://img.shields.io/badge/Joi-464646?style=flat)  
+![CSRF Protection](https://img.shields.io/badge/CSRF-6A2E8C?style=flat)  
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiter-CC0000?style=flat)  
 
 ## 📌 Featured Projects
 
-### 1. [Meu Portfólio](https://github.com/lincon-cardoso/meu-portifolio) · _In Progress_
+### 1. [Meu Portfólio](https://github.com/lincon-cardoso/meu-portifolio) · _In Progress_  
 Professional portfolio showcasing my work, blog, and contact form.  
-> **Techs:** Next.js · React · TypeScript · SCSS  
+> **Techs:** Next.js · React · TypeScript · SCSS
 
 <p align="center">
   <a href="https://www.devlincon.com.br/" target="_blank">
@@ -59,9 +63,18 @@ Professional portfolio showcasing my work, blog, and contact form.
   </a>
 </p>
 
-### 2. [NexoBiiz](https://github.com/lincon-cardoso/NexoBiiz) · _Completed_
+<p align="center">
+  <a href="https://www.devlincon.com.br/" target="_blank">
+    <img alt="View Site" src="https://img.shields.io/badge/View%20Site-Website-brightgreen?style=flat&logo=google-chrome" />
+  </a>&nbsp;
+  <a href="https://github.com/lincon-cardoso/meu-portifolio" target="_blank">
+    <img alt="Repository" src="https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github" />
+  </a>
+</p>
+
+### 2. [NexoBiiz](https://github.com/lincon-cardoso/NexoBiiz) · _Completed_  
 Small business management system with user authentication, dashboards, and CRUD operations.  
-> **Techs:** React · TypeScript · PostgreSQL · Styled Components  
+> **Techs:** React · TypeScript · PostgreSQL · Styled Components
 
 <p align="center">
   <a href="https://nexobiiz.devlincon.com.br/" target="_blank">
@@ -69,24 +82,26 @@ Small business management system with user authentication, dashboards, and CRUD 
   </a>
 </p>
 
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lincon-cardoso&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincon-cardoso&layout=compact&theme=tokyonight" width="48%" />
+  <a href="https://nexobiiz.devlincon.com.br/" target="_blank">
+    <img alt="View Site" src="https://img.shields.io/badge/View%20Site-Website-brightgreen?style=flat&logo=google-chrome" />
+  </a>&nbsp;
+  <a href="https://github.com/lincon-cardoso/NexoBiiz" target="_blank">
+    <img alt="Repository" src="https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github" />
+  </a>
 </p>
 
----
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/lincon-cardoso?template=classic&config.timezone=America%2FSao_Paulo&config.show_icons=true&languages.limit=8&isocalendar=1&followup=1&base.indepth=false&base.hireable=false" alt="Lincon's GitHub Metrics" />
+</p>
 
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lincon-cardoso)  
 - 🌐 [Visit my Portfolio](https://www.devlincon.com.br/)  
-- 📬 Email me at [linkon789@gmail.com](mailto:linkon789@gmail.com)  
-
----
+- 📬 Email me at [linkon789@gmail.com](mailto:linkon789@gmail.com)
 
 <p align="center">
   Made with ❤️ by Lincon Cardoso · Last updated: July 2025
