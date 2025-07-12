@@ -9,9 +9,6 @@
   <a href="mailto:linkon789@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/lincon-cardoso/meu-portifolio/actions/workflows/main.yml" target="_blank">
-    <img alt="Portfolio Build" src="https://github.com/lincon-cardoso/meu-portifolio/actions/workflows/main.yml/badge.svg" />
-  </a>
 </p>
 
 ## 👨‍💻 About Me
