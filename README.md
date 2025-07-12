@@ -9,9 +9,7 @@
   <a href="mailto:linkon789@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/lincon-cardoso/meu-portifolio/actions/workflows/main.yml" target="_blank">
-    <img alt="Portfolio Build" src="https://github.com/lincon-cardoso/meu-portifolio/actions/workflows/main.yml/badge.svg" />
-  </a>
+
 </p>
 
 ## 👨‍💻 About Me
@@ -57,11 +55,6 @@ Front-End Developer and freelancer passionate about coding and exploring new tec
 Professional portfolio showcasing my work, blog, and contact form.  
 > **Techs:** Next.js · React · TypeScript · SCSS
 
-<p align="center">
-  <a href="https://www.devlincon.com.br/" target="_blank">
-    <img alt="Portfolio Screenshot" src="./assets/portfolio-screenshot.png" width="80%" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.devlincon.com.br/" target="_blank">
@@ -76,11 +69,6 @@ Professional portfolio showcasing my work, blog, and contact form.
 Small business management system with user authentication, dashboards, and CRUD operations.  
 > **Techs:** React · TypeScript · PostgreSQL · Styled Components
 
-<p align="center">
-  <a href="https://nexobiiz.devlincon.com.br/" target="_blank">
-    <img alt="NexoBiiz Screenshot" src="./assets/nexobiiz-screenshot.png" width="80%" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://nexobiiz.devlincon.com.br/" target="_blank">
