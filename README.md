@@ -1,13 +1,16 @@
 <h1 align="center">Hey 👋 I'm Lincon Cardoso</h1>
 <p align="center">
-  🚀 Front-End Developer | 💡 Lifelong Learner | 🇧🇷 From Joinville, Brazil
+  🚀 Front-End Developer · 💡 Lifelong Learner · 🇧🇷 Based in Joinville, Brazil
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lincon-cardoso" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:linkon789@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/lincon-cardoso/meu-portifolio/actions/workflows/main.yml" target="_blank">
+    <img alt="Portfolio Build" src="https://github.com/lincon-cardoso/meu-portifolio/actions/workflows/main.yml/badge.svg" />
   </a>
 </p>
 
@@ -15,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate front-end developer and freelancer, always looking for new challenges and ways to grow.
+Passionate Front-End Developer with a focus on crafting clean, performant interfaces. I enjoy translating design concepts into interactive experiences and learning new technologies every day.
 
-- 🧠 Currently learning **React**, **TypeScript**, and diving deeper into fullstack development
-- ⚒️ Focused on writing clean code, building great UIs, and improving performance
-- 📦 I build personal projects to test real-world skills and improve daily
-- 🧘 Calm, curious, and goal-oriented
+- 🧠 Currently diving into **React** and **TypeScript**, expanding into full-stack development  
+- ⚒️ Strong emphasis on code quality, UI/UX best practices, and performance optimization  
+- 🚀 Continuously building personal projects to tackle real-world challenges  
+- 🧘 Calm, curious, and driven by results  
 
 ---
 
@@ -28,31 +31,43 @@ I'm a passionate front-end developer and freelancer, always looking for new chal
 
 **Languages & Frameworks:**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
 
-**Tools & Others:**
+**Tools & Platforms:**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
 
 ---
 
 ## 📌 Featured Projects
 
-### [🧠 NeedsBiz](https://github.com/lincon-cardoso/NeedsBiz)
-Sistema de gerenciamento de pequenas empresas.
-> **Techs:** React · TypeScript · PostgreSQL · Styled Components
+### 1. [Meu Portfólio](https://github.com/lincon-cardoso/meu-portifolio) · _In Progress_
+Professional portfolio showcasing my work, blog, and contact form.  
+> **Techs:** Next.js · React · TypeScript · SCSS  
 
-### [🌐 Meu Portfólio](https://github.com/lincon-cardoso/meu-portifolio)
-Portfólio profissional com sistema de projetos, blog e contato.
-> **Techs:** Next.js · React · TypeScript · SASS
+<p align="center">
+  <a href="https://www.devlincon.com.br/" target="_blank">
+    <img alt="Portfolio Screenshot" src="./assets/portfolio-screenshot.png" width="80%" />
+  </a>
+</p>
+
+### 2. [NexoBiiz](https://github.com/lincon-cardoso/NexoBiiz) · _Completed_
+Small business management system with user authentication, dashboards, and CRUD operations.  
+> **Techs:** React · TypeScript · PostgreSQL · Styled Components  
+
+<p align="center">
+  <a href="https://nexobiiz.devlincon.com.br/" target="_blank">
+    <img alt="NexoBiiz Screenshot" src="./assets/nexobiiz-screenshot.png" width="80%" />
+  </a>
+</p>
 
 ---
 
@@ -65,20 +80,14 @@ Portfólio profissional com sistema de projetos, blog e contato.
 
 ---
 
-## ✍️ Blog & Artigos (em breve)
+## 📫 Let’s Connect
 
-> Estou preparando uma seção de artigos com dicas de front-end, produtividade e projetos reais! Fique ligado!
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lincon-cardoso)
-- 🧠 Em breve: [portfólio]
-- 📬 Email: [linkon789@gmail.com](mailto:linkon789@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lincon-cardoso)  
+- 🌐 [Visit my Portfolio](https://www.devlincon.com.br/)  
+- 📬 Email me at [linkon789@gmail.com](mailto:linkon789@gmail.com)  
 
 ---
 
 <p align="center">
-  Made with ❤️ by Lincon Cardoso · Last updated: 2025
+  Made with ❤️ by Lincon Cardoso · Last updated: July 2025
 </p>
