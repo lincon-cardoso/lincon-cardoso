@@ -94,7 +94,7 @@ Small business management system with user authentication, dashboards, and CRUD 
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/lincon-cardoso?template=classic&config.timezone=America%2FSao_Paulo&config.show_icons=true&languages.limit=8&isocalendar=1&followup=1&base.indepth=false&base.hireable=false" alt="Lincon's GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lincon-cardoso&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ## 📫 Let’s Connect
