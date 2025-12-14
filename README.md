@@ -51,7 +51,7 @@ Front-End Developer and freelancer passionate about coding and exploring new tec
 
 ## 📌 Featured Projects
 
-### 1. [Meu Portfólio](https://github.com/lincon-cardoso/meu-portifolio) · _In Progress_  
+### 1. [Meu Portfólio](https://github.com/lincon-cardoso/meu-portifolio) · _Completed_  
 Professional portfolio showcasing my work, blog, and contact form.  
 > **Techs:** Next.js · React · TypeScript · SCSS
 
