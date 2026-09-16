@@ -16,7 +16,7 @@
 Front-End Developer currently working at **Broadfactor**, focused on building robust, scalable, and responsive web applications. Passionate about software architecture, clean code, and modern web performance.
 
 - 💼 **Current Role:** Front-End Developer at Broadfactor.
-- 🎓 **Education:** Pursuing Systems Analysis and Development.
+- 🎓 **Education:** Graduated in Systems Analysis and Development.
 - 🔗 Active on LinkedIn for professional networking and collaboration.
 - 🚀 Specialized in Angular, TypeScript, and modern front-end workflows.
 
